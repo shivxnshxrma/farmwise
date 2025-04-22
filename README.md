@@ -1,7 +1,7 @@
 ## 🌾 AI-Powered Agricultural Subsidy & Scheme Advisor
 
 The AI-Powered Agricultural Subsidy & Scheme Advisor is an innovative tool designed to help Indian farmers—especially small and marginal ones—understand and access government subsidies and schemes personalized to their needs. The platform leverages GenAI to simplify complex documents, offer multilingual assistance, and provide interactive guidance for timely access to financial benefits.
-
+ 
 ![FarmWise Screenshot 1](https://res.cloudinary.com/dvovo1lfg/image/upload/v1744442760/shquuwkbsdb88gpm2xzw.png)
 
 ![FarmWise Screenshot 2](https://res.cloudinary.com/dvovo1lfg/image/upload/v1744442858/bh0j7nxvojeda7rfjvit.png)
