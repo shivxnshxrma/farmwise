@@ -7,7 +7,7 @@ The AI-Powered Agricultural Subsidy & Scheme Advisor is an innovative tool desig
 ![FarmWise Screenshot 2](https://res.cloudinary.com/dvovo1lfg/image/upload/v1744442858/bh0j7nxvojeda7rfjvit.png)
 
 ![FarmWise Screenshot 3](https://res.cloudinary.com/dvovo1lfg/image/upload/v1744442906/ybqpxt9xopdrdhpifc0w.png)
-
+ 
 ![FarmWise Screenshot 4](https://res.cloudinary.com/dvovo1lfg/image/upload/v1744442987/inkkqusofm2xt3kmw26y.png)
 
 
